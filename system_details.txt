@@ -1,0 +1,22 @@
+Avalon	AVL	Engine	ES	
+Avalon	AVL	Body Work	BW	
+Avalon	AVL	Air-con	AC	
+Hilux	HLX	Engine	ES	
+Hilux	HLX	Body Work	BW	
+Hilux	HLX	Air-con	AC	
+Hilux	HLX	Door	DS	
+Bios	BS	Engine	ES	
+Bios	BS	Body Work	BW
+Bios	BS	Air-con	AC	
+Tesla	TSL	Engine	ES	
+Tesla	TSL	Body Work	BW	
+Tesla	TSL	Air-con	AC	
+Tesla	TSL	Dashboard	DB	
+Tesla	TSL	Door	DS	
+Ambry	AY	Engine	ES	
+Ambry	AY	Body Work	BW	
+Ambry	AY	Air-con	AC	
+Barrier	BR	Engine	ES	
+Avalon	AVL	Dashboard	DB	
+Barrier	BR	Body Work	BW	
+Barrier	BR	Dashboard	DB	

@@ -1,0 +1,16 @@
+E001	Engine Oil Pan v5	Mitch	ES	
+P001	Red Car Paint	Nippon	DS	
+P002	Silver Car Paint	Nippon	DS	
+P003	Black Wax	Jimbo	BW	
+L001	LED	Neo Neon	DB	
+L002	Headlights	Prim Light	BW	
+H001	Stainless Steel Handle	Shine	DS		
+I001	Open Door Sensor	AMD	DS	
+I002	Distance Sensor	AMD	BW	
+L003	Auto Headlights	AMD	BW	
+E002	Engine Core 4 Cylinders	Mitch	ES	
+E003	Engine Core 6 Cylinders	Mitch	ES	
+I003	Touchscreen Display	Samsung	DB	
+I004	Electric Door Model	Tongda	DS
+A001	Aircond Compressor	Mitch	AC	
+A002	Aircond Fan	Mitch	AC	
